@@ -6,6 +6,10 @@ Features:<br>
 2) When app has been disconnected to net it will shows the connection problem layout automatically.<br>
 2) Once the app has connected to net it will automatically hide connection problem layout an load the new data. <br>
 
-1) Connection Gone:
+1) Connection Loss:
+![screenshot1 example](Screenshot_20161006-121957.png)<br>
+
+2)Connection Detect:
+![screenshot1 example](Screenshot_20161006-122010.png)<br>
   
 
